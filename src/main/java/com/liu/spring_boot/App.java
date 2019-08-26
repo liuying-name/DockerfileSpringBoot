@@ -23,6 +23,5 @@ public class App {
 		System.out.println("Hello World!8");
 		
 		System.out.println("Hello World!9");
-		
 	}
 }
